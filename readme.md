@@ -12,7 +12,7 @@ This repository contains the code for the FHTW ROS 2 JupyterLab Docker image. It
 3. Optional: Nvidia Container Toolkit for GPU acceleration on Nvidia Graphics Cards: See [Nvidia Container Toolkit Installation](install_documentation/nvidia_container_toolkit.md)
 
 ### Running the Docker Container
-4. Clone this repository: `git clone https://github.com/fhtw-robotics/ros2_jupyterlab_docker.git`. The `src` folder in this repository serves as the workspace and holds ROS 2 packages and jupyter notebooks.
+4. Clone this repository: `git clone https://github.com/TW-Robotics/docker_ros_jupyterlab`. The `src` folder in this repository serves as the workspace and holds ROS 2 packages and jupyter notebooks.
 5. Run the Docker container: `bash run_local.sh`
 6. Open the JupyterLab interface in your browser by clicking on the link in the terminal starting with `http://localhost:8888/lab?token=...`
 
@@ -24,6 +24,6 @@ This repository contains the code for the FHTW ROS 2 JupyterLab Docker image. It
 
 ### Running the Docker Container
 
-2. Clone this repository: `git clone https://github.com/fhtw-robotics/ros2_jupyterlab_docker.git` or download the repository as a zip file (green button on the upper right corner of the repository page) and extract it. The `src` folder in this repository serves as the workspace and holds ROS 2 packages and jupyter notebooks.
+2. Clone this repository: `git clone https://github.com/TW-Robotics/docker_ros_jupyterlab` or download the repository as a zip file (green button on the upper right corner of the repository page) and extract it. The `src` folder in this repository serves as the workspace and holds ROS 2 packages and jupyter notebooks.
 3. Double click on `run_local.bat` to run the Docker container.
 4. Open the JupyterLab interface in your browser by clicking on the link in the terminal starting with `http://localhost:8888/lab?token=...`
