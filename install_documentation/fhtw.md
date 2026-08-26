@@ -1,4 +1,4 @@
-## How to run the Docker container on the FHTW internal PCs
+# How to run the Docker container on the FHTW internal PCs
 
 1. Log into Win11 using your FHTW/CIS credentials
 
