@@ -3,6 +3,7 @@ This repository contains the code for the FHTW ROS 2 JupyterLab Docker image. It
 [Docker](https://www.docker.com/) is a software that allows deployment and development of software in so-called containers.
 Containers are similar inconcept to a virtual machine, however, they are much more performant due to containers running inside the host OS kernel. Docker containers on Linux are straigt-forward, since you can just install Docker directly.
 On Windows, you will need to install Windows Subsystem for Linux (WSL) first, since Docker actually runs within that instead of natively in Windows. 
+
 **Important for Mac:** Do not install and attempt to run this workspace using Docker Desktop for Mac. GUI will not work. See [our Mac OS setup guide (link)](./install_documentation/mac.md) regarding running ROS 2 and this workspace on Mac OS.
 
 ---
